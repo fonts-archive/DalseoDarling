@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Dalseo Darling';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DalseoDarling/DalseoDarling.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DalseoDarling/DalseoDarling.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DalseoDarling/DalseoDarling.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DalseoDarling/DalseoDarling.ttf') format('truetype');
+}
